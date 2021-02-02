@@ -5,4 +5,9 @@
   * [Section1: Economics is a Science – Methodology of Science (1): Refutability](Lecture02/Section01.md)
   * [Section 2: Economics is a Social Science](Lecture02/Section02.md)
   * [Section 3: Why Do We Need to Study Economics?](Lecture02/Section03.md)
-
+* [Lecture 3: Self-interest: the Postulate of Economics](Lecture03/README.md)
+  * [Section 1: Self-interest](Lecture03/Section01.md)
+  * [Section 2: The Postulate Needs not to be True](Lecture03/Section02.md)
+  *  [Section 3: The Postulate of Self-interest Must be Followed](Lecture03/Section03.md)
+  *  [Section 4: Rationality is not Equivalent to Correctness](Lecture03/Section04.md)
+  *  [Section 5: The Consequences of Ignoring the Postulate of Self-interest](Lecture03/Section05.md)
