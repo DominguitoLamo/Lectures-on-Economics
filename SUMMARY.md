@@ -11,3 +11,7 @@
   *  [Section 3: The Postulate of Self-interest Must be Followed](Lecture03/Section03.md)
   *  [Section 4: Rationality is not Equivalent to Correctness](Lecture03/Section04.md)
   *  [Section 5: The Consequences of Ignoring the Postulate of Self-interest](Lecture03/Section05.md)
+* [Lecture 4: Scarcity, Competition, Market, and Non-market](Lecture04/README.md)
+  * [Section 1: Scarcity](Lecture04/Section01.md)
+  * [Section 2: Competition, Competition Criterion, and Game rule](Lecture04/Section02.md)
+  * [Section 3: The Postulate of Self-interest Must be Followed](Lecture04/Section03.md)
