@@ -15,3 +15,8 @@
   * [Section 1: Scarcity](Lecture04/Section01.md)
   * [Section 2: Competition, Competition Criterion, and Game rule](Lecture04/Section02.md)
   * [Section 3: The Postulate of Self-interest Must be Followed](Lecture04/Section03.md)
+* [Lecture 5: Positive Economics and Normative Economics](Lecture05/README.md)
+  * [Section1: Positive economics](Lecture05/Section01.md)
+  * [Section 2: Normative economics](Lecture05/Section02.md)
+  * [Section3: Value Judgment](Lecture05/Section03.md)
+  * [Section 4: The Problems of Welfare Economics](Lecture05/Section04.md)
