@@ -1,0 +1,13 @@
+﻿# Section 3: Price Theory and Monetary Theory
+
+In some universities, such as the University of Chicago and the University of California, Los Angeles (UCLA) in the US, the appellations of micro and macro are considered misleading, and the terms of “price theory” and “monetary theory” are respectively used to replace them.
+
+As mentioned above, economists of neo-classical synthesis classify traditional economics as microeconomics which focuses on the consumption, production and exchange of the micro-entities (individuals and firms) in the market guided by price. So government intervention is absent in microeconomics, or even if there is a government, it only behaves either like a consumer buying various goods in the market or a producer providing public services to the market. However, in macroeconomics, the role of government is exceptional. It functions as the regulator of the economy (mainly referring to the market), which is entirely different from the role of individuals and firms.
+
+Those who use the terms “price theory” and “monetary theory” instead of micro and macro are concerned about another difference that they think is essential: money.
+Microeconomics studies how the price mechanism (price criterion) plays a role in the market and guides different economic entities to make choices. Here the price refers to the relative price in barter where there is no money, or there is money, but the value of money is stable, and the price level is also stable (i.e. there is no inflation or deflation), so the nominal price (monetary price) of a good is the same as its real price (relative price). Thus, there is no monetary effect on the economy, which means “monetary neutrality” advocated by classical economics.
+
+By contrast, macroeconomics focuses on money. There is not only money in the economy, but also the value of money may fluctuate, which means the price level is unstable (i.e. there is inflation or deflation). Then the monetary price of a good is different from the real price, so affecting (actually misleading) the economic entities’ choices. And the money in modern nations is all issued by government: most are national governments, few are foreign governments, and Euro is the most special, issued by the European Central Bank, a super-government institution. Therefore, the source of instability of money value directly stems from government which also plays an exceptional role. However it should not interfere in the market and regulate the economy, but should control the money supply to stabilize the value of money and the price level, providing a stable platform for the automatic adjustment of the market. 
+
+Obviously, it is monetarists who advocate to replace micro and macro with price theory and monetary theory.
+
