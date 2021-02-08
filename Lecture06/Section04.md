@@ -1,4 +1,4 @@
-﻿# Section 4: The Causes of the Great Depression
+# Section 4: The Causes of the Great Depression
 
 In the previous section, we have introduced briefly the history of economics from the classical period to the neoclassical period and how it “split” into micro and macro. Next, the causes of the Great Depression will be explained to illustrate why Keynesian economics was not the proper remedy to macro-economy, but just a chronic poison.
 

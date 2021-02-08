@@ -1,4 +1,4 @@
-﻿# Section 5: More Truths about the Great Depression
+# Section 5: More Truths about the Great Depression
 
 The cause of the Great Depression explained by Friedman’s “A Monetary History of the United States, 1867-1960” has been expounded in the previous section. However, this terrible story had more tragic developments, because Friedman only explained the phenomena of overproduction and severe deflation, but did not explain why there had been such a high unemployment rate for ten years. The authorities of the US, not just the Fed, had made a series of serious mistakes, which coincidently joint together to cause such an unprecedented GD.
 

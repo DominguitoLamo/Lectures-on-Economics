@@ -1,4 +1,4 @@
-﻿# Section 2: The Rise and Decline of Keynesian Economics
+# Section 2: The Rise and Decline of Keynesian Economics
 
 However, the Great Depression (GD) triggered by the stock crash in the United States from 1929 to 1933 which swept through the significant economies shook the public’s trust in economists, thus shaking economists’ trust in the market and even the economics itself.
 

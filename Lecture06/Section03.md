@@ -1,4 +1,4 @@
-﻿# Section 3: Price Theory and Monetary Theory
+# Section 3: Price Theory and Monetary Theory
 
 In some universities, such as the University of Chicago and the University of California, Los Angeles (UCLA) in the US, the appellations of micro and macro are considered misleading, and the terms of “price theory” and “monetary theory” are respectively used to replace them.
 
