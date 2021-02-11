@@ -1,6 +1,4 @@
-# Lecture 7: Equilibrium•Optimum•Margin
-
-## Section 1: Equilibrium and Optimum
+# Section 1: Equilibrium and Optimum
 
 As mentioned in the previous lecture, economics has copied many concepts from physics. One case is the division of micro and macro, while here is another case of the concept of “Equilibrium” which is very important in economics.
 Equilibrium in physics means that an object is in the state of static or uniform linear motion due to the force balance. For example, the mobile phone on the table is static. Why? Because it is now subject to two forces, one is gravity, and the other is the force of the table supporting it. The two forces are of the same magnitude, but of the opposite directions, so reach a balance, and the mobile phone is in a static state.

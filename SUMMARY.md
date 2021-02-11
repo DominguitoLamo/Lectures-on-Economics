@@ -26,7 +26,7 @@
   * [Section 3: Price Theory and Monetary Theory](Lecture06/Section03.md)
   * [Section 4: The Causes of the Great Depression](Lecture06/Section04.md)
   * [Section 5: More Truths about the Great Depression](Lecture06/Section05.md)
-* [Lecture 7: Equilibrium•Optimum•Margin]()
+* [Lecture 7: Equilibrium•Optimum•Margin](Lecture07/README.md)
   * [Section 1: Equilibrium and Optimum](Lecture07/Section01.md)
   * [Section 2: The Concept of Margin](Lecture07/Section02.md)
   * [Section 3: The Economic Implication of Marginal Analysis](Lecture07/Section03.md)
