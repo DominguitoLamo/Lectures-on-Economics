@@ -50,3 +50,16 @@ In other words, with the passage of time, the information cost about substitutes
 
 In conclusion, until now there has not been a theory of elasticity that can tell a good is elastic or inelastic in advance by determining the relevant constraints. There has been a concept of elasticity which is useless in explaining or predicting phenomena.
 
+<script>
+MathJax = {
+  tex: {
+    inlineMath: [['$', '$'], ['\\(', '\\)']]
+  },
+  svg: {
+    fontCache: 'global'
+  }
+};
+</script>
+<script type="text/javascript" id="MathJax-script" async
+  src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-svg.js">
+</script>
