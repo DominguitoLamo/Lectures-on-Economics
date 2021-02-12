@@ -14,21 +14,22 @@ By the way, is free lunch really free? Do not forget that government is not an e
 > To reduce the cost of holding such huge stores, Congress passed food stamp and school lunch programs subsidizing food prices for some consumers. A variety of “supply management” programs were introduced to reduce quantities produced. In addition, the price support levels were reduced. The table shows that, accordingly, in the 1960s government purchases were much smaller than in the previous decade.
 >
 > <b> Yearly acquisitions of three supported crops by the commodity credit corporation, selected years</b>
-> | Grain | Sorghum | Corn | Wheat |
-> |----|----|----|----|
-> |1953|40.9|422.3|486.1|
-> |54|110.1|250.6|391.6|
-> |55|92.6|408.9|276.7|
-> |56|32.5|477.4|148.4|
-> |57|279.6|268.1|193.5|
-> |58|258|266.6|511|
-> |1963|125.1|17.9|85.1|
-> |64|66.8|29.1|86.9|
-> |65|85|11.2|17.2|
-> |66|0.3|12.4|12.4|
-> |67|9.1|191|90|
-> |68|13.7|34.4|182.9|
-
+> 
+>| Grain | Sorghum | Corn | Wheat |
+>|----|----|----|----|
+>|1953|40.9|422.3|486.1|
+>|54|110.1|250.6|391.6|
+>|55|92.6|408.9|276.7|
+>|56|32.5|477.4|148.4|
+>|57|279.6|268.1|193.5|
+>|58|258|266.6|511|
+>|1963|125.1|17.9|85.1|
+>|64|66.8|29.1|86.9|
+>|65|85|11.2|17.2|
+>|66|0.3|12.4|12.4|
+>|67|9.1|191|90|
+>|68|13.7|34.4|182.9|
+>
 > <sup><sub> *Source*: Commodity Credit Corporation charts, November 1972, pp. 49, 75, 115.</sub></sup>
 >
 > Over the years, political support for the policy of buying surpluses has declined. Instead, a variety of other techniques for maintaining farm prices have been increasingly used, the details varying from commodity to commodity. Generally speaking, these restrict either the number of acres that can be planted or the amount of product that can be sold. Such methods of “supply management” have been supplemented by other programs aimed at maintaining farm incomes, among them direct payments to farmers for acres not planted or for crops not sold.

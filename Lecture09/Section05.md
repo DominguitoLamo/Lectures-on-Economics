@@ -40,18 +40,19 @@ The objective effect of government’s policy is once again contrary to its stat
 > Economists, at least up to recently, have believed that in most labor markets the evidence supports the competitive model. A minimum wage, set higher than the previous equilibrium level, would be expected to reduce employment among the affected low-wage groups. The table here indicates some of the results of a study by Donald Deere, Kevin M. Murphy, and Finis Welch dealing with minimum wage increases legislated in 1990 and 1991.
 >
 >  <b>Percent employment reduction after 1990–1 minimum wage Increases</b>
-> | Age group |% low wage |% employment change |
-> |----|----|----|
-> |<b> Men </b>|
-> |15-19|44.5|-15.6|
-> |20-24|14.2|-5.7|
-> |25-64|3.3|-2.4|
-> |65-69|14.0|-4.2|
-> |<b> Women</b>|
-> |15-19|51.8|-13.0|
-> |20-24|19.0|-4.2|
-> |25-64|8.8|-0.3|
-> |65-69|21.0|+3.1|
+> 
+>| Age group |% low wage |% employment change |
+>|----|----|----|
+>|<b> Men </b>|
+>|15-19|44.5|-15.6|
+>|20-24|14.2|-5.7|
+>|25-64|3.3|-2.4|
+>|65-69|14.0|-4.2|
+>|<b> Women</b>|
+>|15-19|51.8|-13.0|
+>|20-24|19.0|-4.2|
+>|25-64|8.8|-0.3|
+>|65-69|21.0|+3.1|
 >
 > <sup><sub> Source: Extracted from Deere, Murphy, and Welch, p. 48.</sub></sup>
 >
