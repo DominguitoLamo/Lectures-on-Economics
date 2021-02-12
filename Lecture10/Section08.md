@@ -9,7 +9,13 @@ The law of demand only tells us that the demand curve has negative slope. As sho
 
 The concept of elasticity in economics is again copied from physics. Elasticity in physics refers to the sensitivity of deformation of an object to changes in force. For example, if a spring will stretch a lot when pulled lightly, it is elastic. By contrast, if a spring will only stretch a little when pulled hard, it is inelastic. Human’s skin is another typical example. It is very elastic because it will cave in when pressed lightly with a finger. By contrast, the surface of a table seems not change at all when pressed hard with a finger, unless it is watched carefully with a microscope, so the table is very inelastic.
 
-It is Marshall again who copied the concept of elasticity from physics to economics, because the extent of quantity changes caused by price changes is equivalent to that of the deformation of an object caused by force. Elasticity coefficient is also used to measure elasticity, such as $η≡ \frac{\frac{ΔQ}{Q}}{\frac{ΔP}{P}} ≡ \frac{\frac{ΔQ}{ΔP}}{\frac{Q}{P}} ≡ \frac{ΔQ}{ΔP} \frac{P}{Q}$. $\frac{\frac{ΔQ}{Q}}{\frac{ΔP}{P}}$ is the definition formula of the price elasticity coefficient of demand. The numerator of it is the proportionate change in quantity purchased (i.e. the changing value divided by the initial value in quantity), while the denominator of it is the proportionate change in price (i.e. the change value of price divided by the initial value of price). This formula of elasticity measures a good’s sensitivity to changes in price. The reason why an elasticity measure defined in terms of proportionate changes is used is to avoid the difficulty of being affected by the units of measurement. For example, if the direct measure of $\frac{ΔQ}{ΔP}$ is used, how to compare the price elasticity of cars in China and that of planes in US when there are different weight units and different currencies. However, the effects of different units can be eliminated by using proportionate changes, so the elasticity of any good in any currency can be directly compared.
+It is Marshall again who copied the concept of elasticity from physics to economics, because the extent of quantity changes caused by price changes is equivalent to that of the deformation of an object caused by force. Elasticity coefficient is also used to measure elasticity, such as 
+
+$$η≡ \frac{\frac{ΔQ}{Q}}{\frac{ΔP}{P}} ≡ \frac{\frac{ΔQ}{ΔP}}{\frac{Q}{P}} ≡ \frac{ΔQ}{ΔP} \frac{P}{Q}$$.
+
+ $$\frac{\frac{ΔQ}{Q}}{\frac{ΔP}{P}}$$
+ 
+  is the definition formula of the price elasticity coefficient of demand. The numerator of it is the proportionate change in quantity purchased (i.e. the changing value divided by the initial value in quantity), while the denominator of it is the proportionate change in price (i.e. the change value of price divided by the initial value of price). This formula of elasticity measures a good’s sensitivity to changes in price. The reason why an elasticity measure defined in terms of proportionate changes is used is to avoid the difficulty of being affected by the units of measurement. For example, if the direct measure of $\frac{ΔQ}{ΔP}$ is used, how to compare the price elasticity of cars in China and that of planes in US when there are different weight units and different currencies. However, the effects of different units can be eliminated by using proportionate changes, so the elasticity of any good in any currency can be directly compared.
 
 Because the demand curve has negative slope, the price elasticity of demand must be negative. There are three kinds of elasticity based on the relationship between its absolute value and unity. If the elasticity measure exceeds unity in absolute value, a demand curve is said to be “elastic”, which means the proportionate change in quantity is more than that in price. And the demand is said to be “inelastic” if the elasticity has an absolute value less than unity, which means the proportionate change in quantity is less than that in price. If the elasticity has an absolute value equivalent to unity, it is called “unitary” elasticity, which means the proportionate change in quantity is the same as that in price.
 
@@ -19,11 +25,27 @@ Why should we care about elasticity? Because if a good is elastic or inelastic w
 
 By contrast, if a good is inelastic, when the producer raises the price substantially, the quantity will not drop much. However, when the producer decreases the price substantially, the quantity will not increase much. For the inelastic good, the strategy of price cutting will only decrease the revenue. There is a Chinese saying that “Low prices for grain hurt the peasants”. The substantial rise in grain output during the harvest year will cause the price to drop sharply, but the consumptions will not increase much, thus causing the revenues of the peasants to fall instead of rise.
 
-The concept of elasticity extends to many other fields. For example, from the supplements and substitutes discussed before, it can be seen that the price change in a good will not only affect the demand of itself, but also the demand for its supplements and substitutes. If the denominator of the coefficient formula (the proportionate change in price of a good) is changed to the proportionate change in price of another good, it is called the cross-elasticity of demand: $η_{xy} ≡ \frac{\frac{ΔQ_x}{Q_x}}{\frac{ΔP_y}{P_y}} ≡\frac{ΔQ_x}{ΔP_y } \frac{P_y}{Q_x}$. Unlike the price elasticity of demand which is always negative, the cross-elasticity of demand can be positive or negative. If good X is the substitute of good Y, the quantity of X will rise along with the rise in the price of Y, so the cross-elasticity of a substitute is positive. By contrast, if good X is the supplement of good Y, the quantity of X will fall along with the rise in the price of Y, so the cross-elasticity of a supplement is negative.
+The concept of elasticity extends to many other fields. For example, from the supplements and substitutes discussed before, it can be seen that the price change in a good will not only affect the demand of itself, but also the demand for its supplements and substitutes. If the denominator of the coefficient formula (the proportionate change in price of a good) is changed to the proportionate change in price of another good, it is called the cross-elasticity of demand: 
 
-If the denominator of the coefficient formula (the proportionate change in price of a good) is changed to the proportionate change in income, it is called the income elasticity of demand: $ɛ≡ \frac{\frac{ΔQ}{Q}}{\frac{ΔI}{I}} ≡ \frac{\frac{ΔQ}{ΔI }}{\frac{Q}{I}} ≡ \frac{ΔQ}{ΔI}\frac{I}{Q}$. If the good is a superior good, the quantity of it will rise along with the rise in income, so the income elasticity of a superior good is positive. By contrast, if the good is an inferior good, the quantity of it will fall along with the rise in income, so the income elasticity of an inferior good is negative.
+$$η_{xy} ≡ \frac{\frac{ΔQ_x}{Q_x}}{\frac{ΔP_y}{P_y}} ≡\frac{ΔQ_x}{ΔP_y } \frac{P_y}{Q_x}$$
 
-If the numerator of the coefficient formula (the proportionate change in quantity purchased) is changed to the proportionate change in quantity sold, it is called the price elasticity of supply: $κ≡ \frac{\frac{ΔQ}{Q}}{\frac{ΔP}{P}} ≡ \frac{ΔQ}{ΔP} \frac{P}{Q}$, which seems the same as the formula for the price elasticity of demand ($η≡ \frac{\frac{ΔQ}{Q}}{\frac{ΔP}{P}} ≡ \frac{ΔQ}{ΔP } \frac{P}{Q}$), but the Q in η means quantity purchased that is related to quantity demanded, while Q in κ means quantity sold that is related to quantity supplied. Since the supply curve is sloping upwards, the price elasticity of supply is always positive. There are also three kinds of price elasticity of supply based on the relationship between its value and unity. If the elasticity measure exceeds unity, a supply curve is said to be “elastic”, which means the proportionate change in quantity is more than that in price. And the supply is said to be “inelastic” if the elasticity has a value less than unity, which means the proportionate change in quantity is less than that in price. If the elasticity has a value equivalent to unity, it is called “unitary” elasticity, which means the proportionate change in quantity is the same as that in price.
+Unlike the price elasticity of demand which is always negative, the cross-elasticity of demand can be positive or negative. If good X is the substitute of good Y, the quantity of X will rise along with the rise in the price of Y, so the cross-elasticity of a substitute is positive. By contrast, if good X is the supplement of good Y, the quantity of X will fall along with the rise in the price of Y, so the cross-elasticity of a supplement is negative.
+
+If the denominator of the coefficient formula (the proportionate change in price of a good) is changed to the proportionate change in income, it is called the income elasticity of demand: 
+
+$$ɛ≡ \frac{\frac{ΔQ}{Q}}{\frac{ΔI}{I}} ≡ \frac{\frac{ΔQ}{ΔI }}{\frac{Q}{I}} ≡ \frac{ΔQ}{ΔI}\frac{I}{Q}$$
+
+ If the good is a superior good, the quantity of it will rise along with the rise in income, so the income elasticity of a superior good is positive. By contrast, if the good is an inferior good, the quantity of it will fall along with the rise in income, so the income elasticity of an inferior good is negative.
+
+If the numerator of the coefficient formula (the proportionate change in quantity purchased) is changed to the proportionate change in quantity sold, it is called the price elasticity of supply: 
+
+$$κ≡ \frac{\frac{ΔQ}{Q}}{\frac{ΔP}{P}} ≡ \frac{ΔQ}{ΔP} \frac{P}{Q}$$
+
+, which seems the same as the formula for the price elasticity of demand 
+
+($$η≡ \frac{\frac{ΔQ}{Q}}{\frac{ΔP}{P}} ≡ \frac{ΔQ}{ΔP } \frac{P}{Q}$$)
+
+, but the Q in η means quantity purchased that is related to quantity demanded, while Q in κ means quantity sold that is related to quantity supplied. Since the supply curve is sloping upwards, the price elasticity of supply is always positive. There are also three kinds of price elasticity of supply based on the relationship between its value and unity. If the elasticity measure exceeds unity, a supply curve is said to be “elastic”, which means the proportionate change in quantity is more than that in price. And the supply is said to be “inelastic” if the elasticity has a value less than unity, which means the proportionate change in quantity is less than that in price. If the elasticity has a value equivalent to unity, it is called “unitary” elasticity, which means the proportionate change in quantity is the same as that in price.
 
 In fact, one can put any different data into the numerator and denominator of the elasticity coefficient formula to create various kinds of elasticity. For example, in international finance, if one wants to study how much the devaluation or appreciation of a country’s currency affects the change in import or export volume, he can put the proportionate change in the value of currency value in the denominator, and the proportionate change in import or export volume in the numerator to calculate the monetary elasticity of import or export. Thus, there can be various kinds of elasticity in economics. Since the price elasticity of demand is the first elasticity, it is the default of elasticity if there is no specific statement.
 
@@ -54,6 +76,7 @@ In conclusion, until now there has not been a theory of elasticity that can tell
 MathJax = {
   tex: {
     inlineMath: [['$', '$'], ['\\(', '\\)']]
+
   },
   svg: {
     fontCache: 'global'
@@ -61,5 +84,5 @@ MathJax = {
 };
 </script>
 <script type="text/javascript" id="MathJax-script" async
-  src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-svg.js">
+  src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js">
 </script>
