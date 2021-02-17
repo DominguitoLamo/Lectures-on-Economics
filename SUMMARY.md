@@ -52,3 +52,8 @@
   * [Section 6: Are there Giffen Goods?](Lecture10/Section06.md)
   * [Section 7: From Individual Demand to Market Demand](Lecture10/Section07.md)
   * [Section 8: Is There Theory of Elasticity?](Lecture10/Section08.md)
+* [Lecture 11: The Concept of Cost](Lecture11/README.md)
+  * [Section 1: Opportunity Cost](Lecture11/Section01.md)
+  * [Section 2: Historical Cost is not Cost](Lecture11/Section02.md)
+  * [Section3: The Disturbance of Historical Cost](Lecture11/Section03.md)
+  * [Section 4: The Laboratory in Economics](Lecture11/Section04.md)

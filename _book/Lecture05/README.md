@@ -1,0 +1,5 @@
+# Lecture 5: Positive Economics and Normative Economics
+
+The previous lectures expound that economics is a social science, like physics and other natural sciences, which logically derive a theoretical system based on some postulates and axioms to explain various phenomena in reality. However, as mentioned in Lecture 2, the subject of economics is human, while that of physics is nonliving matter. So economics is severely affected by an economist who himself is also human, and the incompetent or ill-intentioned ones of them often distort the research deliberately or unconsciously and let their personal feelings or even interests interfere with scientific study.
+
+How can economists avoid distorting economic analysis with personal feelings or interests? Moreover, how can the ordinary learn to think like economists even when they do not need to become economist, and free from the delusion by the economists’ intentional or unintentional misanalysis? Answer: we should distinguish clearly between positive economics and normative economics.
