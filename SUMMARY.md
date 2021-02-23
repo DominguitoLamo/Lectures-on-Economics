@@ -74,3 +74,11 @@
   * [Section 2: The History of Transaction Cost](Lecture14/Section02.md)
   * [Section 3: From the Special Transaction Cost to the General Transaction Cost — Methodology of Science (4): Ad Hoc Theory](Lecture14/Section03.md)
   * [Section 4: The Perspective of Contract](Lecture14/Section04.md)
+
+* [Lecture 15: Market Structure – Price-Taking](Lecture15/README.md)
+  * [Section 1: The Definition of Price-Taking](Lecture15/Section01.md)
+  * [Section 2: The Optimum of Producers](Lecture15/Section02.md)
+  * [Section 3: The Law of Diminishing Marginal Product](Lecture15/Section03.md)
+  * [Section 4: Average Cost](Lecture15/Section04.md)
+  * [Section 5: The Theory of Supply and Demand with Production](Lecture15/Section05.md)
+  * [Section 6: Consumer Surplus and Producer Surplus](Lecture15/Section06.md)
