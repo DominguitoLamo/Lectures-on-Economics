@@ -1,0 +1,35 @@
+# Section 4: From Asset to Capital, Annuity, Investment and Saving
+
+The price of an asset is Capital Value, which is the most general concept of capital. Capital is the sum of the discounted values of future incomes, while the wealth (value) is the sum of the discounted values of all incomes. The difference between the two is that the former is not including present income. But “present” is a very flexible concept. The income of this year is present income, while that of next year is future income. The income of today is present income, while that of tomorrow is future income. The income of this moment is present income, while that of the next moment is future income. If the present period is as short as a point of time, the income as a flow has no value and present income is close to zero. Thus, there is no difference between capital and wealth.
+
+The incomes in different periods are different or can even be negative. A self-interested person will maximize income, but the question is which period of income is maximized? According to the theory of interest, the income with time dimension cannot be maximized. Actually, one will maximize the sum of the discounted values of all incomes or wealth.
+
+Suppose the t in the discount formula is infinite, we can multiply the wealth by a fixed interest rate, to get an income that is also fixed for each period and called “Annuity Income”. As introduced in Lecture 17, with SOP, people pay premium when they work and receive annuity on time after retirement. The “annuity” is also derived from this concept. Annuity is fixed, will not be different in different periods or even be negative, so it can be maximized by self-interested persons. In other words, the “income” in the “income maximization” mentioned in Lecture 12 actually refers to “annuity income”.
+
+The fixed interest rate used to calculate annuity can be regarded as an estimate of the average magnitude of different interest rates in different periods. Of course, this “average” is only a concept, not a concept defined by a mathematical formula, such as an arithmetic average or a geometric average. Thus, annuity is also a concept, and it can be used to construct a simplified discount formula (called Fisher’s Wealth Equation) in evaluating an investment project: $W = \frac{y}{r}$, where Y refers to annuity. Compared with the more complicated formal discount formula introduced in section 3, it enables investors to make decisions quickly. For example, suppose one is going to invest in real estate, and there is a house priced RMB200,000 and located where the normal rent is about RMB1,000 per month. With the risk that the house may be empty for a while without income (that is transaction cost) and the trouble of managing the tenants (that is also transaction cost) are taken into account, it can be estimated reliably that the average annual rent is RMB10,000. The price of RMB200,000 is wealth, and the annual rent of RMB10,000 is annuity, so according to Fisher’s Wealth Equation, ROR (r) is 5%, which is much higher than the interest rate of deposit in bank for one year. Thus it can be concluded that such an investment is a good deal.
+
+Fisher also had another famous saying, “Interest is not a part of income, but the whole of income.” With the understanding that “income” in “income maximization” refers to annuity, this Fisher’s saying is easy to understand, because annuity is wealth multiplied by a fixed interest rate, which is precisely interest.
+
+Since both wealth and asset need to use interest rate in the market as discount rate, there will be no wealth or capital if there is no market. At this time, the change in people’s behaviors should be observed from the perspective of marginal change.
+The term “investment” in economics is not different from “saving, because they all mean the behavior of giving up the present consumption in exchange for future consumption. The remaining part of the present income after deducted the consumption is “saving”, while the remaining part of the present income that is not consumed now but left for future consumption is “investment”. Obviously, they are the same, and just the former is from the perspective of present, while the latter is form the perspective of future.
+
+What is more, one’s savings that are not immediately consumed will be converted into investment by others in the society through banks as the intermediaries (indirect finance) or securities markets including stock market and bond market (direct finance).
+
+More generally, all behaviors can be regarded as investments. For example, sleeping is usually regarded as consumption, but it is also investment. If one chooses to read a few more pages of books instead of going to bed in one evening, he can learn more and may help to increase his future income a little. If one chooses to go to bed earlier instead of watching TV in one evening because there will be important work tomorrow, he can do better job tomorrow and increase his future income. In the former case, sleeping is consumption that is given up for the education investment, while in the latter case, sleeping is investment by giving up the entertainment consumption.
+
+As mentioned in Lecture 12, there is no essential difference between production factors and final consumption goods. Bed is usually regarded as a final consumption good, so sleeping is consumption. However, bed can be also regarded a production factor that produce the labor ability, so sleeping is investment, and is also saving that saves physical strength. In a word, all behaviors are essentially the same, but just observed for different perspectives.
+
+Thus, there is no difference between consumption and production. Consumption, production and investment (saving) are all the same. Grain can be used as food (consumption), as seed for sowing (production or investment), and lent to others as food or seed (savings). A piece of land can be used for growing grains (agricultural land), for building factories (industrial land) and for building houses (residential land). Is there any essential difference between grain and land? No, there are all kinds of uses for both, and people will compare various uses of a good to choose the one with the maximal rent.
+
+We should grasp the essence by observing the superficial phenomena, which is precisely the implication of generalization. From the most general perspective, goods (products or consumption goods), production factors and assets are the same. Consumption, production and investment (savings) are the same. Value (use value or price of a good), rent (income or cost without time dimension), capital (price of an asset) and wealth are also the same!
+
+<script>
+MathJax = {
+  tex: {
+    inlineMath: [['$', '$'], ['\\(', '\\)']]
+  }
+};
+</script>
+<script id="MathJax-script" async
+  src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js">
+</script>
