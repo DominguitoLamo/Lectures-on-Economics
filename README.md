@@ -4,6 +4,16 @@
 
 [https://lectures-on-economics-git-main-dominguitolamo.vercel.app/](https://lectures-on-economics-git-main-dominguitolamo.vercel.app/)
 
+## Introduction
+
+**Lectures on Economics** inherits the academic discipline from **Economic Explanation** by Steven N.G Cheung. It reestablishes economic theory and explains economic phenomenon with Methodology of Science.
+
+Lectures 1 – 10 introduces the methodology of science and the basic concept of price theory, the foundation of economic theory. Lectures 11- 17 are of producer theory, explaining the producer behavior. Lecture 18 is interest theory, the foundation of finance. Lectures 19-22 are concerned with monetary theory and give the critiques of macroeconomics. Lectures 23-25 turn to new institution economics. It demonstrates the importance of institution from the perspective of transaction cost. Lecture 26, the final lecture, studies politics with economic theory.
+
+Please give the star to the project if you like the textbook. It is welcome to fork it to improve it.
+
+We hope that the English naïve speaker who understands Chinese would improve the translation since the translators are the amateurs. You can send email to **Eileen Li (908961321@qq.com)**, the author, to communicate.
+
 ## Content:
 
 * [Lecture 1: Introduction](Lecture01/README.md)
@@ -169,3 +179,9 @@
   * [Section 5: Democratic Voting Infringes on PPRs](Lecture26/Section05.md)
   * [Section 6: The Difficulties of Dictatorship](Lecture26/Section06.md)
   * [Section 7: Three Utopias](Lecture26/Section07.md)
+
+## Contributor
+
+Author: Eileen Li
+
+Translator: Chon Lam, Jian Chan, He Cheung 
