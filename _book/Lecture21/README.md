@@ -1,5 +1,0 @@
-# Lecture 21: The Critique on Keynes’s Theory of National Income Determination
-
-In Lecture 6, we have introduced how Keynes gained his fame by explaining the causes of Great Depression. He put forward the theory of national income determination, the basic conclusion of which is that the free market will cause Aggregate Demand to be less than Aggregate Supply in the economy, so government needs to adopt economic policies to increase aggregate demand to make it equal to aggregate supply and reach the equilibrium of national income.
-
-However, we have already analyzed in detail that the real cause of overproduction is the wrong monetary policy. We have also explained that economic fluctuation (business cycle) is not the result of free market, but the wrong monetary policy again and some government policies that interfere with or even abolish the market mechanism that adjusting the price to equalize supply and demand. Precisely because the Keynes’s theory has still influenced government policies, it is necessary to introduce it and point out the mistakes one by one.

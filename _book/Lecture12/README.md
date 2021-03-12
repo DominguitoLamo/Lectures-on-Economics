@@ -1,1 +1,0 @@
-# Lecture 12: The Concept of Rent

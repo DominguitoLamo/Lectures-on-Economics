@@ -1,1 +1,0 @@
-# Lecture 14: Transaction Cost

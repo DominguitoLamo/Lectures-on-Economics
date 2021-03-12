@@ -1,3 +1,0 @@
-# Lecture 19: Monetary Theory
-
-As mentioned in Lecture 6, in price theory, there is no money in the economy, which means the transaction is barter, or it is supposed that the value of money is stable, which means there is no inflation or deflation, so the impact of money on the economy is neutral and does not need to be paid attention to. The monetary theory introduced in this lecture takes the impact of money into account.
