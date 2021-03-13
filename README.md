@@ -4,6 +4,8 @@
 
 [https://lectures-on-economics-git-main-dominguitolamo.vercel.app/](https://lectures-on-economics-git-main-dominguitolamo.vercel.app/)
 
+### The book is allowed to read in PDF format. You can download it in the repository, Github or Gitee.
+
 ## Introduction
 
 **Lectures on Economics** inherits the academic discipline from **Economic Explanation** by Steven N.G Cheung. It reestablishes economic theory and explains economic phenomenon with Methodology of Science.
