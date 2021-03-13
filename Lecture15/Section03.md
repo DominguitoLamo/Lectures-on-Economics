@@ -38,4 +38,13 @@ In MSE, there are production costs of short-run and long-run. In short-run, ther
 
 According to the law of diminishing marginal product, and adding the constraint of transaction cost, ADC curve will be U-shaped, and MC curve will pass it through the bottom, which has been shown in Fig7.2 of Lecture7.
 
-<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+<script>
+MathJax = {
+  tex: {
+    inlineMath: [['$', '$'], ['\\(', '\\)']]
+  }
+};
+</script>
+<script id="MathJax-script" async
+  src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js">
+</script>
